@@ -1,0 +1,80 @@
+{
+  "_from": "jquery.mmenu@^7.3.2",
+  "_id": "jquery.mmenu@7.3.2",
+  "_inBundle": false,
+  "_integrity": "sha512-hcIav2iasghzU66MfPxFuLaBqvjjJZF4P3Fp2IEY5y6khYNa7W2GG8RbXLiQjAMxAK3agg9dsATCI6E3E7qtPw==",
+  "_location": "/jquery.mmenu",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "jquery.mmenu@^7.3.2",
+    "name": "jquery.mmenu",
+    "escapedName": "jquery.mmenu",
+    "rawSpec": "^7.3.2",
+    "saveSpec": null,
+    "fetchSpec": "^7.3.2"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/jquery.mmenu/-/jquery.mmenu-7.3.2.tgz",
+  "_shasum": "7254dcb369b28a9e7b2678a727dbbf3ca18637dd",
+  "_spec": "jquery.mmenu@^7.3.2",
+  "_where": "C:\\Work\\GitHub\\K9.local",
+  "author": {
+    "name": "Fred Heusschen",
+    "email": "info@frebsite.nl"
+  },
+  "bugs": {
+    "url": "https://github.com/FrDH/jQuery.mmenu/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "The best jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.",
+  "devDependencies": {
+    "@types/hammerjs": "*",
+    "@types/jquery": "^3.3.29",
+    "@types/modernizr": "^3.5.2",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "*",
+    "gulp-clean-css": "*",
+    "gulp-concat": "*",
+    "gulp-rename": "*",
+    "gulp-sass": "*",
+    "gulp-terser": "*",
+    "gulp-typescript": "*",
+    "gulp-umd": "^2.0.0",
+    "merge-stream": "^1.0.1",
+    "typescript": "*"
+  },
+  "homepage": "https://github.com/FrDH/jQuery.mmenu#readme",
+  "keywords": [
+    "app",
+    "list",
+    "listview",
+    "megamenu",
+    "menu",
+    "mmenu",
+    "mobile",
+    "navigation",
+    "off-canvas",
+    "on-canvas",
+    "curtain",
+    "panels",
+    "submenu"
+  ],
+  "license": "CC-BY-NC-4.0",
+  "main": "dist/jquery.mmenu.all.js",
+  "name": "jquery.mmenu",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrDH/jQuery.mmenu.git"
+  },
+  "scripts": {
+    "build": "gulp default"
+  },
+  "types": "./index.d.ts",
+  "version": "7.3.2"
+}
